@@ -23,4 +23,4 @@ El obejtivo del juego es no chocarse y comer la mayor cantidad de manzanas rojas
 
 ## VISTA PREVIA DEL JUEGO
 
-![This is an image](![image](https://user-images.githubusercontent.com/90013732/146306968-49775566-1307-45ba-9eec-f171b15a4d51.png)
+![image](https://user-images.githubusercontent.com/90013732/146306968-49775566-1307-45ba-9eec-f171b15a4d51.png)
