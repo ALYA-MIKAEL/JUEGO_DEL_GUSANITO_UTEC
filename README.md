@@ -44,11 +44,14 @@ Agregamos dos sonidos que estarán en la carpeta de “imágenes” que permitir
 Al ejecutar el código, el usuario deberá utilizar las flechas:
  
 → derecha
+
 ← izquierda
+
 ↑ arriba
+
 ↓ abajo
  
-Y evitar chocarse contra las paredes
+Y evitar chocarse contra las paredes, O se perderá.
 
 ## VISTA PREVIA DEL JUEGO
 
