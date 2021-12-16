@@ -1,6 +1,7 @@
 # EL JUEGO DEL GUSANITO
 ![This is an image](https://www4.minijuegosgratis.com/v3/games/thumbnails/214311_1.jpg)
 
+
 El juego consiste en una línea que no para de moverse, el usuario lo controla con las flechas de:
 
  → derecha 
@@ -23,7 +24,7 @@ El obejtivo del juego es no chocarse y comer la mayor cantidad de manzanas rojas
 4. Jhan Charles Manchay Flores/ JhanUTEC
 
 
-## INSTRUCCIONES DEL JUEGO
+## CORTO RESUMEN DEL JUEGO
 Importamos nuestro módulo Ursina y también el módulo random, de esta manera, podemos generar aleatoriamente una manzana y colocarla en una ubicación aleatoria.
 
 Para crear un fondo: 
