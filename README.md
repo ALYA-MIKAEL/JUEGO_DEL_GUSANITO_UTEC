@@ -15,11 +15,13 @@ Así el gusanito no puede chocarse con las paredes ni consigo mismo.
 
 El obejtivo del juego es no chocarse y comer la mayor cantidad de manzanas rojas y que el gusano crezca lo más que máximo posible.
 
+
 ## INTEGRANTES
 1. Noé Ananias Paredes Rauraico / NoeParedes
 2. Kevin Richard Dulanto / kevinrdf
 3. Valeria Saidid Miranda Ibarra / ALYA-MIKAEL
 4. Jhan Charles Manchay Flores/ JhanUTEC
+
 
 ## INSTRUCCIONES DEL JUEGO
 Importamos nuestro módulo Ursina y también el módulo random, de esta manera, podemos generar aleatoriamente una manzana y colocarla en una ubicación aleatoria.
@@ -51,7 +53,8 @@ Al ejecutar el código, el usuario deberá utilizar las flechas:
 
 ↓ abajo
  
-Y evitar chocarse contra las paredes, O se perderá.
+Y evitar chocarse contra las paredes, o se perderá.
+
 
 ## VISTA PREVIA DEL JUEGO
 
