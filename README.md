@@ -42,7 +42,7 @@ Ahora creamos el campo del juego:
 campo = Entity(model='quad',texture=’campo_del_jusanito’,scale=(12,12),
      position=(19 // 2,19// 2, -0.01))
 
-Agregamos dos sonidos que permitirán una mejor experiencia al usuario. Con el “mordida.mp3”, cada vez que la serpiente se come una manzana hay un sonido de comer y cuando se estrella contra una pared o a sí mismo, hay un silbido gracias al “perdedor.mp3”.
+Agregamos dos sonidos, que están en la carpeta "imagenes_sonidos", que permitirán una mejor experiencia al usuario. Con el “mordida.mp3”, cada vez que la serpiente se come una manzana hay un sonido de comer y cuando se estrella contra una pared o a sí mismo, hay un silbido gracias al “perdedor.mp3”.
 
 Al ejecutar el código, el usuario deberá utilizar las flechas:
  
